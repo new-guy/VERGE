@@ -1,5 +1,6 @@
 #brew install boost pkg-config 
 brew uninstall qt5
+brew update
 brew install protobuf miniupnpc openssl qrencode berkeley-db4
 brew link berkeley-db4 --force
 # Might need these later: libevent librsvg
