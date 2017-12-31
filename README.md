@@ -12,6 +12,8 @@ ____   _________________________   ________ ___________
 VERGE [XVG] Source Code
 ================================
 
+This branch exists to test if I can get a BUTT_FART_LOL build running in CI
+
 Specifications:
 --------------
 
